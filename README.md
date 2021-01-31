@@ -1,8 +1,7 @@
 # flutter_aba_ui
 
 A new Flutter application.
-![screenshot](https://github.com/KhmerDevChannel/ABA_Flutter_UI/blob/master/screenshot/Screenshot1.png)
-![screenshot](https://github.com/KhmerDevChannel/ABA_Flutter_UI/blob/master/screenshot/Screenshot2.png)
+![screenshot](https://github.com/KhmerDevChannel/ABA_Flutter_UI/blob/master/screenshot/Thumbnail.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
